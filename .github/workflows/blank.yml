@@ -10,8 +10,7 @@ jobs:
    build:
      name: jobs to update Datas
      runs-on: ubuntu-lastest
-     steps:
-       # snake Animwation
+     steps:      
        - uses: Plantame/snk@master
        id: snake-gif
        with:
