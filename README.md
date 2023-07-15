@@ -1,7 +1,9 @@
+<img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725242763001986/linha_rgb.gif" >
 - 🦉 Eterno Aprendiz 🖥️ Sou apaixonado por tecnologia e estou sempre em busca de evoluir com ela 🚀
 - 🤖...Cheio de sonhos e com grandes projetos !!🤖
 - ⚡ Curiosidade: ...[ IA ]
   
+<img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725242763001986/linha_rgb.gif" >  
 ### Hi there 🖖 Eu me chamo *Franck Souza*
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franck_d_souza/)
@@ -14,7 +16,7 @@
 ![Franck  GitHub stats](https://github-readme-stats.vercel.app/api?username=FranckSouza&show_icons=true&theme=midnight-purple)
 
 
-<img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725242763001986/linha_rgb.gif" >
+
 ## 🌱**Tecnologias que estou Evoluindo**🌱
 
 <div style="display: inline_block"><br>
