@@ -12,7 +12,7 @@
 <img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725242763001986/linha_rgb.gif" >
 
 ![Franck  GitHub stats](https://github-readme-stats.vercel.app/api?username=FranckSouza&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranckSouza)](https://github.com/FranckSouza/github-readme-stats)
+
 
 <img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725242763001986/linha_rgb.gif" >
 ## 🌱**Tecnologias que estou Evoluindo**🌱
@@ -29,7 +29,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranckSouza)](https://github.com/FranckSouza/github-readme-stats)
 <img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725242763001986/linha_rgb.gif" >
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#hiding-individual-stats-->
 
