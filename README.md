@@ -12,7 +12,7 @@
 
 
 ![Franck GitHub stats](https://github-readme-stats.vercel.app/api?username=FranckSouza&show_icons=true&theme=midnight-purple)
-![Franck  GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Franck  GitHub stats](https://github-readme-stats.vercel.app/api?username=FranckSouza&show_icons=true&theme=midnight-purple)
 
 
 ## 🌱**Tecnologias que estou Evoluindo**🌱
