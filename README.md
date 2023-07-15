@@ -1,14 +1,9 @@
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🦉 Eterno Aprendiz 🖥️ Sou apaixonado por tecnologia e estou sempre em busca de evoluir com ela 🚀
+- 🤖...Cheio de sonhos e com grandes projetos !!🤖
+- ⚡ Curiosidade: ...[ IA ]
+  
+### Hi there 🖖 Eu me chamo *Franck Souza*
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### Hi there 🖖 Eu me chamo Franck
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franck_d_souza/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francivan-d-souza-03b51522a/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JFGGHWeVwm)
@@ -20,7 +15,7 @@
 
 
 
-## **Tecnologias que estou Evoluindo**
+## 🌱**Tecnologias que estou Evoluindo**🌱
 
 <div style="display: inline_block"><br>
   <img aling="center" alt="Linux"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
@@ -39,4 +34,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranckSouza)](https://github.com/FranckSouza/github-readme-stats)
 
 
-###  🖖 Eterno Aprendiz, Cheio de sonhos e com grandes projetos !! 🖥️ Sou apaixonado por tecnologia e estou sempre em busca de evoluir com ela 🚀...
+###  ,  ...
