@@ -7,7 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Hei there 🖖 Eu me chamo Franck
+### Hi there 🖖 Eu me chamo Franck
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franck_d_souza/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francivan-d-souza-03b51522a/)
