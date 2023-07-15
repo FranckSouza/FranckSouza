@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francksouzah@gmail.com)
 
 
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://discord.com/channels/953736648829583412/1082704482770628609/1093725921179086868)">  
+  <img src="(https://discord.com/channels/953736648829583412/1082704482770628609/1093725921179086868](https://discord.com/channels/953736648829583412/1082704482770628609/1093725921179086868))">  
 
 
 ![Franck  GitHub stats](https://github-readme-stats.vercel.app/api?username=FranckSouza&show_icons=true&theme=midnight-purple)
