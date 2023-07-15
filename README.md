@@ -10,7 +10,7 @@
 
 <img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725920789008394/linha-imagem-animada-0184.gif" >  
 
-- 🦉 Eterno Aprendiz 🖥️ Sou apaixonado por tecnologia e estou sempre em busca de evoluir com ela 🚀
+- 🦉 Eterno Aprendiz 🖥️ Sou apaixonado por tecnologia <br> e estou sempre em busca de evoluir com ela 🚀
 - 🤖...Cheio de sonhos e com grandes projetos !!🤖
 - ⚡ Curiosidade: ...[ IA ]
 
