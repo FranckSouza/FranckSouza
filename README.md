@@ -17,7 +17,7 @@
 <img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725920789008394/linha-imagem-animada-0184.gif" >
 
 
- ###🌱*Tecnologias que estou Evoluindo*🌱
+ ### 🌱*Tecnologias que estou Evoluindo*🌱
 
 
 <div style="display: inline_block"><br>
