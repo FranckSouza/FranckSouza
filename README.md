@@ -10,8 +10,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francksouzah@gmail.com)
 
 
-  <img src="(https://discord.com/channels/953736648829583412/1082704482770628609/1093725921179086868](https://discord.com/channels/953736648829583412/1082704482770628609/1093725921179086868))">  
-
+   
+<img src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725242763001986/linha_rgb.gif">
 
 ![Franck  GitHub stats](https://github-readme-stats.vercel.app/api?username=FranckSouza&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranckSouza)](https://github.com/FranckSouza/github-readme-stats)
