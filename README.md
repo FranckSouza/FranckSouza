@@ -1,4 +1,4 @@
-<img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725242763001986/linha_rgb.gif" >
+<img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725920789008394/linha-imagem-animada-0184.gif" >
 
 
 - 🦉 Eterno Aprendiz 🖥️ Sou apaixonado por tecnologia e estou sempre em busca de evoluir com ela 🚀
@@ -6,6 +6,8 @@
 - ⚡ Curiosidade: ...[ IA ]
   
 <img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725242763001986/linha_rgb.gif" >  
+
+
 ### Hi there 🖖 Eu me chamo *Franck Souza*
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franck_d_souza/)
