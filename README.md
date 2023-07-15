@@ -11,8 +11,9 @@
 
 
 
-![Franck GitHub stats](https://github-readme-stats.vercel.app/api?username=FranckSouza&show_icons=true&theme=midnight-purple)
+
 ![Franck  GitHub stats](https://github-readme-stats.vercel.app/api?username=FranckSouza&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranckSouza)](https://github.com/FranckSouza/github-readme-stats)
 
 
 ## 🌱**Tecnologias que estou Evoluindo**🌱
@@ -31,7 +32,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranckSouza)](https://github.com/FranckSouza/github-readme-stats)
+
 
 
 ###  ,  ...
