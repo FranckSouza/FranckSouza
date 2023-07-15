@@ -3,7 +3,7 @@
 - ⚡ Curiosidade: ...[ IA ]
   
 ### Hi there 🖖 Eu me chamo *Franck Souza*
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...<br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franck_d_souza/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francivan-d-souza-03b51522a/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JFGGHWeVwm)
