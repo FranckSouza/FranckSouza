@@ -9,14 +9,12 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JFGGHWeVwm)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francksouzah@gmail.com)
 
-
-   
-<img style="width="40" src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725242763001986/linha_rgb.gif">
+<img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725242763001986/linha_rgb.gif" >
 
 ![Franck  GitHub stats](https://github-readme-stats.vercel.app/api?username=FranckSouza&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranckSouza)](https://github.com/FranckSouza/github-readme-stats)
 
-
+<img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725242763001986/linha_rgb.gif" >
 ## 🌱**Tecnologias que estou Evoluindo**🌱
 
 <div style="display: inline_block"><br>
@@ -32,7 +30,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-
+<img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725242763001986/linha_rgb.gif" >
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#hiding-individual-stats-->
 
 
