@@ -8,7 +8,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francivan-d-souza-03b51522a/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JFGGHWeVwm)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francksouzah@gmail.com)
-[![Gmail](https://discord.com/channels/953736648829583412/1082704482770628609/1093725921179086868)](mailto:francksouzah@gmail.com)
+
+[![Gmail]([https://discord.com/channels/953736648829583412/1082704482770628609/1093725921179086868](https://discord.com/channels/953736648829583412/1082704482770628609/1093725921179086868))](mailto:francksouzah@gmail.com)
 
 
 
