@@ -22,7 +22,7 @@
 
 
 
-## 🌱**Tecnologias que estou Evoluindo**🌱
+## 🌱*Tecnologias que estou Evoluindo*🌱
 
 
 <div style="display: inline_block"><br>
