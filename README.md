@@ -1,13 +1,6 @@
 <img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725920789008394/linha-imagem-animada-0184.gif" >
 
 
-- 🦉 Eterno Aprendiz 🖥️ Sou apaixonado por tecnologia e estou sempre em busca de evoluir com ela 🚀
-- 🤖...Cheio de sonhos e com grandes projetos !!🤖
-- ⚡ Curiosidade: ...[ IA ]
-  
-<img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725920789008394/linha-imagem-animada-0184.gif" >  
-
-
 ### Hi there 🖖 Eu me chamo *Franck Souza*
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franck_d_souza/)
@@ -15,11 +8,13 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JFGGHWeVwm)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francksouzah@gmail.com)
 
+<img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725920789008394/linha-imagem-animada-0184.gif" >  
+
+- 🦉 Eterno Aprendiz 🖥️ Sou apaixonado por tecnologia e estou sempre em busca de evoluir com ela 🚀
+- 🤖...Cheio de sonhos e com grandes projetos !!🤖
+- ⚡ Curiosidade: ...[ IA ]
+
 <img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725920789008394/linha-imagem-animada-0184.gif" >
-
-
-![Franck  GitHub stats](https://github-readme-stats.vercel.app/api?username=FranckSouza&show_icons=true&theme=midnight-purple)
-
 
 
  🌱*Tecnologias que estou Evoluindo*🌱
@@ -38,7 +33,14 @@
 <img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725920789008394/linha-imagem-animada-0184.gif" >
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranckSouza)](https://github.com/FranckSouza/github-readme-stats)
+<div>
+  
+  ![Franck  GitHub stats](https://github-readme-stats.vercel.app/api?username=FranckSouza&show_icons=true&theme=midnight-purple)
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranckSouza)](https://github.com/FranckSouza/github-readme-stats)
+
+</div>
 
 
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#hiding-individual-stats-->
