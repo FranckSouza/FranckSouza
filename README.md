@@ -42,7 +42,7 @@
 
 </div>
 
-
+<img  src="https://cdn.discordapp.com/attachments/1082704482770628609/1093725920789008394/linha-imagem-animada-0184.gif" >
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#hiding-individual-stats-->
 
 
